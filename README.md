@@ -22,4 +22,6 @@ So far there are no bugs/issues on the project.
 ## Contributors
 So far there are no contributors in this project.
 
+## Contact Information
+
 
