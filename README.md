@@ -11,4 +11,4 @@ This is an application for encrypting letter according to the index given.
 * Install Intellij IDE.
 * Right Click on the CeaserCipher.java and run it.
 * Enter text to be encrypted.
-* 
+* Enter encrypt key to shift letters.
