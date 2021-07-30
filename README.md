@@ -27,4 +27,4 @@ So far there are no contributors in this project.
 * Mobile Number- +254727991993
 * Instagram @ _naphtalimakori
 * Twitter @ naphtalimakori
-* 
+* Linked In @ Naphtali Makori
