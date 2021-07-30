@@ -18,3 +18,5 @@ This is an application for encrypting letter according to the index given.
 
 ## Known Bugs
 So far there are no bugs/issues on the project.
+
+## Contributors
