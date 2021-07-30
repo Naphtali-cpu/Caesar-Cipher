@@ -17,3 +17,4 @@ This is an application for encrypting letter according to the index given.
 * Java.
 
 ## Known Bugs
+So far there are no bugs/issues on the project.
