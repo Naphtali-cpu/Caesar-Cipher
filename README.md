@@ -13,3 +13,5 @@ This is an application for encrypting letter according to the index given.
 * Enter text to be encrypted.
 * Enter encrypt key to shift letters.
 * Press enter and you are done.
+
+## Technologies Used
