@@ -15,3 +15,5 @@ This is an application for encrypting letter according to the index given.
 * Press enter and you are done.
 
 ## Technologies Used
+
+* Java.
