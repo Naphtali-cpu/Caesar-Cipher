@@ -12,4 +12,3 @@ This is an application for encrypting letter according to the index given.
 * Right Click on the CeaserCipher.java and run it.
 * Enter text to be encrypted.
 * 
-* 
