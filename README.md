@@ -28,3 +28,6 @@ So far there are no contributors in this project.
 * Instagram @ _naphtalimakori
 * Twitter @ naphtalimakori
 * Linked In @ Naphtali Makori
+
+## Licence
+
