@@ -8,7 +8,7 @@ public class CaesarCipher {
         String plainText;
         int shiftKey;
 
-        System.out.println("Enter Message To Be Encrypted: ");
+        System.out.println("Enter Text To Be Encrypted: ");
         plainText = aScanner.nextLine();
 
         System.out.println("Enter Encrypt Key ");
