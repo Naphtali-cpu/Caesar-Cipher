@@ -9,6 +9,7 @@ public class CipherTest {
         Cipher testCipher = new Cipher(2, 4);
         assertEquals(true, testCipher instanceof Cipher);
     }
+    
 
     @Test
     public void newCipher_getsLength_2() {
