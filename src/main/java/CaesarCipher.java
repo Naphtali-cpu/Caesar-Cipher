@@ -28,23 +28,23 @@ public class CaesarCipher {
         final String ALPAHABETS = "abcdefghijklmnopqrstuvwxyz";
         message = message.toLowerCase();
 
-        StringBuilder cyperText = new StringBuilder();
+        StringBuilder cipherText = new StringBuilder();
 
         for(int counter = 0;counter < message.length();counter++) {
             if(!Character.isLetter(message.charAt(counter))) {
-                cyperText.append(message.charAt(counter));
+                cipherText.append(message.charAt(counter));
             }
             else {
                 int charPosition = ALPAHABETS.indexOf(message.charAt(counter));
                 int keyValue = (charPosition + shiftKey) % 26;
 
-                char cyperValue = ALPAHABETS.charAt(keyValue);
+                char cipherValue = ALPAHABETS.charAt(keyValue);
 
-                cyperText.append(cyperValue);
+                cipherText.append(cipherValue);
             }
         }
 
-        return cyperText.toString();
+        return cipherText.toString();
     }
 //Decryption
 
