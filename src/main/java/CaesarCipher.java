@@ -11,7 +11,7 @@ public class CaesarCipher {
         System.out.println("Enter Text To Be Encrypted: ");
         plainText = aScanner.nextLine();
 
-        System.out.println("Enter Encrypt Key ");
+        System.out.println("Enter Encrypt Shift Key ");
         shiftKey = aScanner.nextInt();
         String encryptedText = EncryptText(plainText,shiftKey);
 
